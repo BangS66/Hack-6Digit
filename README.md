@@ -1,5 +1,5 @@
 # fb
-We Are Aceh Cyber Team
+We Are Bang Sinot
 FacebookRecovery
 
 // Cara menggunakan: Kembalikan akun korban Anda dan lebih baik pilih opsi email: p, dan sisanya adalah menggunakan pikiran Anda \! /
